@@ -1,2 +1,2 @@
-# mtc-backend-prod
- python Code for MTC with file main.py
+This is a prod python repository is for backend developer. 
+The infra was last modified by: Aleksandar Cvetkovic
